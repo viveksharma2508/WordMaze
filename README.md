@@ -57,7 +57,7 @@ Here are some screenshots to give you a glimpse of the WordMaze game:
    ![Screenshot (101)](https://github.com/user-attachments/assets/0dfb06da-499b-4ea6-8789-1ee4844f029c)
 
 
-> **Note**: Make sure to replace the paths with the actual paths of your screenshots.
+
 
 ## Enjoy the Game!
 
