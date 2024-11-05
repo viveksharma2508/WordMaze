@@ -1,11 +1,20 @@
 {
+  "builds": [
+    {
+      "src": "index.html",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "dist"
+      }
+    }
+  ],
   "github": {
-      "silent": true
+    "silent": true
   },
   "rewrites": [
-      {
-          "source": "(.*)",
-          "destination": "/index.html"
-      }
+    {
+      "source": "(.*)",
+      "destination": "/index.html"
+    }
   ]
 }
